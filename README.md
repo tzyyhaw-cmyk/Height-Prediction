@@ -27,6 +27,7 @@ To address these challenges, the following core strategies were implemented:
 * **Optimal Convergence**: The pure DNN model achieved clean, smooth convergence around Epochs 50–70.
 * **Zero Overfitting**: Training Loss and Validation Loss aligned tightly (~0.60–0.62 in $\log_2$ space), demonstrating exceptional generalization on unseen validation data.
 * **Representation Capacity**: Confirmed that the deep architecture fully extracted available signals from the feature space while maintaining a highly efficient and pure neural network structure.
+<img width="937" height="576" alt="loss_curve" src="https://github.com/user-attachments/assets/b0c8bcdc-d2ab-4ea6-8336-6030c63d1545" />
 
 ---
 
