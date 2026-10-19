@@ -1,0 +1,14 @@
+# Data (from Canvas, not redistributed)
+CSCE-636-Project-1-Train-n_k_m_P
+CSCE-636-Project-1-Train-mHeights
+CSCE-636-Project-1-Test-n_k_m_P
+CSCE-636-Project-1-Test-mHeights
+
+# Trained models (too large for GitHub: > 100 MB per file)
+*.keras
+*.aug_done
+*.history.json
+*.pkl
+
+.ipynb_checkpoints/
+__pycache__/
